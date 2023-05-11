@@ -2,7 +2,6 @@
 
 React 학습 목적으로 만들어진 고객 관리 시스템
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
